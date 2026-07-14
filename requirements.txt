@@ -5,3 +5,4 @@ scikit-learn
 xgboost
 matplotlib
 seaborn
+shap==0.43.0
