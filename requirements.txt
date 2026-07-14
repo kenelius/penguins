@@ -1,8 +1,7 @@
-app.py 
-IRIS.csv 
-model_lr.pkl
-model_knn.pkl
-model_rf.pkl
-model_xgb.pkl
-label_encoder.pkl
-feature_names.pkl
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
+matplotlib
+seaborn
